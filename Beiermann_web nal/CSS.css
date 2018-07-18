@@ -1,0 +1,41 @@
+html {
+    background-image:url(../images/giftly.png);
+}
+
+body {
+    width:700px;
+    padding: 50px; 
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid #000;
+    background-color:azure;
+}
+a {
+    font-size: 20pt;
+    color:aqua;
+    text-decoration: underline;
+    
+}
+
+a:hover {#ggg;
+}
+
+h1{
+    font-size: 12pt;
+    color:aqua;
+    border-top: 4px dotted #686143;
+    text-transform:full-width;
+    
+}
+p {
+    font-size: 16pt;
+    line-height: 12pt;
+}
+img {
+    border-bottom-right-radius: medium solid: #666;
+    box-shadow: 7px 7px 7px 
+
+}
